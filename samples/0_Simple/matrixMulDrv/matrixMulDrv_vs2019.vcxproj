@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{375E6F7C-8944-45D5-B943-019EE3804355}</ProjectGuid>
     <RootNamespace>matrixMulDrv_vs2019</RootNamespace>
     <ProjectName>matrixMulDrv</ProjectName>
     <CudaToolkitCustomDir />

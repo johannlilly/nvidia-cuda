@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{6B13AA4D-A088-45E4-A393-08872440DA98}</ProjectGuid>
     <RootNamespace>cppOverload_vs2019</RootNamespace>
     <ProjectName>cppOverload</ProjectName>
     <CudaToolkitCustomDir />

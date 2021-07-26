@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{B2A86BAC-5608-4678-8BD1-1A2F9FBF4E55}</ProjectGuid>
     <RootNamespace>cudaCompressibleMemory_vs2019</RootNamespace>
     <ProjectName>cudaCompressibleMemory</ProjectName>
     <CudaToolkitCustomDir />

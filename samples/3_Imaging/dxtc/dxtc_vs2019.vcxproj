@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{EFD97A43-473A-41C6-AE2F-0A2163A54398}</ProjectGuid>
     <RootNamespace>dxtc_vs2019</RootNamespace>
     <ProjectName>dxtc</ProjectName>
     <CudaToolkitCustomDir />

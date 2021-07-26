@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{50856A4C-FA60-4A92-AD7A-89A25AD9CB29}</ProjectGuid>
     <RootNamespace>FunctionPointers_vs2019</RootNamespace>
     <ProjectName>FunctionPointers</ProjectName>
     <CudaToolkitCustomDir />

@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{FA33826B-8DA8-42C0-9451-A5685F9D2968}</ProjectGuid>
     <RootNamespace>simpleVoteIntrinsics_vs2019</RootNamespace>
     <ProjectName>simpleVoteIntrinsics</ProjectName>
     <CudaToolkitCustomDir />

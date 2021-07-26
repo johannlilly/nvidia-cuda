@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{6053FAD7-4853-4D04-8D1A-C8ECA2B6A7AB}</ProjectGuid>
     <RootNamespace>sortingNetworks_vs2019</RootNamespace>
     <ProjectName>sortingNetworks</ProjectName>
     <CudaToolkitCustomDir />

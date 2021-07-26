@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{0754D072-468C-488B-A4BC-8273F63A9730}</ProjectGuid>
     <RootNamespace>simpleIPC_vs2019</RootNamespace>
     <ProjectName>simpleIPC</ProjectName>
     <CudaToolkitCustomDir />

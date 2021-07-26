@@ -1,3 +1,7 @@
-*.sqlite
+*.sqlite*
 *.*db*
 *.ipch
+*.cache
+*.*log
+*.*proj
+**/Debug

@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{7B7C1B20-DC2A-46A8-81F8-AA178344217C}</ProjectGuid>
     <RootNamespace>volumeRender_vs2019</RootNamespace>
     <ProjectName>volumeRender</ProjectName>
     <CudaToolkitCustomDir />
@@ -111,7 +111,6 @@
   <ItemGroup>
     <ClCompile Include="volumeRender.cpp" />
     <CudaCompile Include="volumeRender_kernel.cu" />
-
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{5EA9B080-2F57-4232-AC4C-6EA2D8C447C4}</ProjectGuid>
     <RootNamespace>bindlessTexture_vs2019</RootNamespace>
     <ProjectName>bindlessTexture</ProjectName>
     <CudaToolkitCustomDir />

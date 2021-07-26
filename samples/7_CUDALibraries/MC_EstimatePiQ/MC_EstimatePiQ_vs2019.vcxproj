@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{F3129DCB-BB0F-4BF7-8B31-F0BF29BE49D7}</ProjectGuid>
     <RootNamespace>MC_EstimatePiQ_vs2019</RootNamespace>
     <ProjectName>MC_EstimatePiQ</ProjectName>
     <CudaToolkitCustomDir />

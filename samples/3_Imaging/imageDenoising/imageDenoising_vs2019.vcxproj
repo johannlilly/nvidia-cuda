@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{349BA952-990C-49C0-B1C0-504BEF7DB380}</ProjectGuid>
     <RootNamespace>imageDenoising_vs2019</RootNamespace>
     <ProjectName>imageDenoising</ProjectName>
     <CudaToolkitCustomDir />

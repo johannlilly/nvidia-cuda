@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{53375494-AD0C-4096-B249-12FC7C156B6A}</ProjectGuid>
     <RootNamespace>fluidsD3D9_vs2019</RootNamespace>
     <ProjectName>fluidsD3D9</ProjectName>
     <CudaToolkitCustomDir />

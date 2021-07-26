@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{4327B3F7-9A52-408F-A20F-F0A0E31957A7}</ProjectGuid>
     <RootNamespace>scalarProd_vs2019</RootNamespace>
     <ProjectName>scalarProd</ProjectName>
     <CudaToolkitCustomDir />

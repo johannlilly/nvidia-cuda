@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{29D93950-BD73-4304-A0DB-E8684FCA27A9}</ProjectGuid>
     <RootNamespace>cdpAdvancedQuicksort_vs2019</RootNamespace>
     <ProjectName>cdpAdvancedQuicksort</ProjectName>
     <CudaToolkitCustomDir />

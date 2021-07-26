@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{ABADF80F-BE62-4563-9B92-9DB8C003D855}</ProjectGuid>
     <RootNamespace>segmentationTreeThrust_vs2019</RootNamespace>
     <ProjectName>segmentationTreeThrust</ProjectName>
     <CudaToolkitCustomDir />

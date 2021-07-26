@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{136893A2-4C46-43BC-BD03-0B205AA2AD05}</ProjectGuid>
     <RootNamespace>cdpSimpleQuicksort_vs2019</RootNamespace>
     <ProjectName>cdpSimpleQuicksort</ProjectName>
     <CudaToolkitCustomDir />
@@ -101,7 +101,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <CudaCompile Include="cdpSimpleQuicksort.cu" />
-
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

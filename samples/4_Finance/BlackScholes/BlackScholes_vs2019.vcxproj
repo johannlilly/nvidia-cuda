@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{444A1A79-9F7C-4446-A654-B4C3A465E2D5}</ProjectGuid>
     <RootNamespace>BlackScholes_vs2019</RootNamespace>
     <ProjectName>BlackScholes</ProjectName>
     <CudaToolkitCustomDir />

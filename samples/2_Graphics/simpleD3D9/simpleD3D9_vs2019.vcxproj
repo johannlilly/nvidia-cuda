@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{E18F35A4-6C22-4317-BA34-71A678331889}</ProjectGuid>
     <RootNamespace>simpleD3D9_vs2019</RootNamespace>
     <ProjectName>simpleD3D9</ProjectName>
     <CudaToolkitCustomDir />

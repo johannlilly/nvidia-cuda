@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{F851DF7D-B1B4-42DB-A9FA-95517331AAAA}</ProjectGuid>
     <RootNamespace>marchingCubes_vs2019</RootNamespace>
     <ProjectName>marchingCubes</ProjectName>
     <CudaToolkitCustomDir />

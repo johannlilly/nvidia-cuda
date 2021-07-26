@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{451514E1-3A5D-48A4-B0CF-C1B8CF10A756}</ProjectGuid>
     <RootNamespace>vectorAddMMAP_vs2019</RootNamespace>
     <ProjectName>vectorAddMMAP</ProjectName>
     <CudaToolkitCustomDir />

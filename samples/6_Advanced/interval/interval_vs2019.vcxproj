@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{A1C55A19-8AB0-4E63-934E-AE39C79A0F20}</ProjectGuid>
     <RootNamespace>interval_vs2019</RootNamespace>
     <ProjectName>interval</ProjectName>
     <CudaToolkitCustomDir />

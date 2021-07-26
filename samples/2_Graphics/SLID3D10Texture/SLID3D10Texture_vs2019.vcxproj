@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{1B977BBB-A9EB-457E-85F8-B0C2EBD190E2}</ProjectGuid>
     <RootNamespace>SLID3D10Texture_vs2019</RootNamespace>
     <ProjectName>SLID3D10Texture</ProjectName>
     <CudaToolkitCustomDir />

@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{D8B3A545-5D04-43CA-BA85-E6C5731D3E43}</ProjectGuid>
     <RootNamespace>UnifiedMemoryPerf_vs2019</RootNamespace>
     <ProjectName>UnifiedMemoryPerf</ProjectName>
     <CudaToolkitCustomDir />

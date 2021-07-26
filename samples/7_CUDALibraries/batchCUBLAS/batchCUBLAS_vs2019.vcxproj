@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{7955D5DD-A7C6-43EF-B5D4-C5AC6B554806}</ProjectGuid>
     <RootNamespace>batchCUBLAS_vs2019</RootNamespace>
     <ProjectName>batchCUBLAS</ProjectName>
     <CudaToolkitCustomDir />

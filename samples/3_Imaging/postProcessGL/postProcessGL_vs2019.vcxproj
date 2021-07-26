@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{3AC07530-B95A-4EB6-BD7A-A8A1AF9432DC}</ProjectGuid>
     <RootNamespace>postProcessGL_vs2019</RootNamespace>
     <ProjectName>postProcessGL</ProjectName>
     <CudaToolkitCustomDir />
@@ -111,7 +111,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <CudaCompile Include="postProcessGL.cu" />
-
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

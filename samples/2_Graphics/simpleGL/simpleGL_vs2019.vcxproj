@@ -14,7 +14,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{997E0757-EA74-4A4E-A0FC-47D8C8831A15}</ProjectGuid>
+    <ProjectGuid>{CD4AB2EC-BA07-4072-8F5B-520BF3E90B66}</ProjectGuid>
     <RootNamespace>simpleGL_vs2019</RootNamespace>
     <ProjectName>simpleGL</ProjectName>
     <CudaToolkitCustomDir />
@@ -110,7 +110,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <CudaCompile Include="simpleGL.cu" />
-
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
